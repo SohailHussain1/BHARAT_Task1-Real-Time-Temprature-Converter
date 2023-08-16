@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_options">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+        <item>Delisle</item>
+        <item>Newton</item>
+        <item>Réaumur</item>
+        <item>Rømer</item>
+        <!-- Add more temperature units here -->
+    </string-array>
+</resources>
